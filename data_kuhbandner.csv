@@ -1,0 +1,211 @@
+Country;Date;Calendar Week;Tests per Day;New Infections per Day;Deaths per Day
+Austria;Mar 2, 2020;10;;4;0
+Austria;Mar 3, 2020;10;1034;4;0
+Austria;Mar 4, 2020;10;455;6;0
+Austria;Mar 5, 2020;10;573;5;0
+Austria;Mar 6, 2020;10;289;12;0
+Austria;Mar 7, 2020;10;308;33;0
+Austria;Mar 8, 2020;10;201;25;0
+Austria;Mar 9, 2020;11;225;3;0
+Austria;Mar 10, 2020;11;292;29;0
+Austria;Mar 11, 2020;11;336;51;0
+Austria;Mar 12, 2020;11;507;64;0
+Austria;Mar 13, 2020;11;713;115;1
+Austria;Mar 14, 2020;11;885;143;0
+Austria;Mar 15, 2020;11;700;151;0
+Austria;Mar 16, 2020;12;323;205;0
+Austria;Mar 17, 2020;12;1788;156;2
+Austria;Mar 18, 2020;12;1699;316;0
+Austria;Mar 19, 2020;12;1747;314;1
+Austria;Mar 20, 2020;12;1889;550;2
+Austria;Mar 21, 2020;12;2932;453;0
+Austria;Mar 22, 2020;12;2823;375;2
+Austria;Mar 23, 2020;13;2061;607;8
+Austria;Mar 24, 2020;13;4962;855;9
+Austria;Mar 25, 2020;13;4016;796;5
+Austria;Mar 26, 2020;13;3588;606;4
+Austria;Mar 27, 2020;13;3557;1141;18
+Austria;Mar 28, 2020;13;3198;668;16
+Austria;Mar 29, 2020;13;3691;594;0
+Austria;Mar 30, 2020;14;3014;522;18
+Austria;Mar 31, 2020;14;2889;805;22
+Austria;Apr 1, 2020;14;3519;564;20
+Austria;Apr 2, 2020;14;36327;529;18
+Austria;Apr 3, 2020;14;6153;418;12
+Austria;Apr 4, 2020;14;5791;396;10
+Austria;Apr 5, 2020;14;4282;241;18
+Belgium;Mar 2, 2020;10;280;1;0
+Belgium;Mar 3, 2020;10;476;6;0
+Belgium;Mar 4, 2020;10;632;5;0
+Belgium;Mar 5, 2020;10;701;10;0
+Belgium;Mar 6, 2020;10;1011;27;0
+Belgium;Mar 7, 2020;10;406;59;0
+Belgium;Mar 8, 2020;10;410;60;0
+Belgium;Mar 9, 2020;11;546;31;0
+Belgium;Mar 10, 2020;11;743;39;0
+Belgium;Mar 11, 2020;11;1006;28;0
+Belgium;Mar 12, 2020;11;1415;47;3
+Belgium;Mar 13, 2020;11;2394;85;0
+Belgium;Mar 14, 2020;11;1985;160;0
+Belgium;Mar 15, 2020;11;1155;130;1
+Belgium;Mar 16, 2020;12;1648;197;0
+Belgium;Mar 17, 2020;12;1915;199;1
+Belgium;Mar 18, 2020;12;2387;158;0
+Belgium;Mar 19, 2020;12;2915;243;9
+Belgium;Mar 20, 2020;12;2585;309;7
+Belgium;Mar 21, 2020;12;1958;462;16
+Belgium;Mar 22, 2020;12;1167;558;30
+Belgium;Mar 23, 2020;13;2652;586;8
+Belgium;Mar 24, 2020;13;3296;342;13
+Belgium;Mar 25, 2020;13;3630;526;34
+Belgium;Mar 26, 2020;13;3562;668;56
+Belgium;Mar 27, 2020;13;4254;1298;42
+Belgium;Mar 28, 2020;13;3313;1049;69
+Belgium;Mar 29, 2020;13;2027;1850;64
+Belgium;Mar 30, 2020;14;3353;1702;78
+Belgium;Mar 31, 2020;14;5462;1063;82
+Belgium;Apr 1, 2020;14;4862;876;192
+Belgium;Apr 2, 2020;14;4870;1189;123
+Belgium;Apr 3, 2020;14;5269;1384;183
+Belgium;Apr 4, 2020;14;4322;1422;132
+Belgium;Apr 5, 2020;14;2572;1661;140
+France;Mar 2, 2020;10;;30;0
+France;Mar 3, 2020;10;;48;1
+France;Mar 4, 2020;10;;34;1
+France;Mar 5, 2020;10;;73;0
+France;Mar 6, 2020;10;;138;3
+France;Mar 7, 2020;10;;190;2
+France;Mar 8, 2020;10;8620;103;1
+France;Mar 9, 2020;11;;410;9
+France;Mar 10, 2020;11;;286;11
+France;Mar 11, 2020;11;;372;3
+France;Mar 12, 2020;11;;497;15
+France;Mar 13, 2020;11;;595;13
+France;Mar 14, 2020;11;;785;18
+France;Mar 15, 2020;11;25676;838;12
+France;Mar 16, 2020;12;;924;36
+France;Mar 17, 2020;12;;1210;21
+France;Mar 18, 2020;12;;1097;27
+France;Mar 19, 2020;12;;1404;69
+France;Mar 20, 2020;12;;1861;128
+France;Mar 21, 2020;12;;1617;78
+France;Mar 22, 2020;12;70799;1847;112
+France;Mar 23, 2020;13;;1559;112
+France;Mar 24, 2020;13;;3838;186
+France;Mar 25, 2020;13;;2446;240
+France;Mar 26, 2020;13;;2931;231
+France;Mar 27, 2020;13;;3922;365
+France;Mar 28, 2020;13;;3809;299
+France;Mar 29, 2020;13;116708;4611;319
+France;Mar 30, 2020;14;;2599;292
+France;Mar 31, 2020;14;;4376;418
+France;Apr 1, 2020;14;;7578;499
+France;Apr 2, 2020;14;;4861;509
+France;Apr 3, 2020;14;;2116;471
+France;Apr 4, 2020;14;;5233;2004
+France;Apr 5, 2020;14;109553;4267;1053
+Germany;Mar 2, 2020;10;;42;0
+Germany;Mar 3, 2020;10;;78;0
+Germany;Mar 4, 2020;10;;149;2
+Germany;Mar 5, 2020;10;;182;1
+Germany;Mar 6, 2020;10;;179;4
+Germany;Mar 7, 2020;10;;134;4
+Germany;Mar 8, 2020;10;35575;96;0
+Germany;Mar 9, 2020;11;;343;5
+Germany;Mar 10, 2020;11;;578;3
+Germany;Mar 11, 2020;11;;736;7
+Germany;Mar 12, 2020;11;;977;9
+Germany;Mar 13, 2020;11;;1410;12
+Germany;Mar 14, 2020;11;;1284;16
+Germany;Mar 15, 2020;11;155050;942;12
+Germany;Mar 16, 2020;12;;2011;27
+Germany;Mar 17, 2020;12;;3008;34
+Germany;Mar 18, 2020;12;;3509;45
+Germany;Mar 19, 2020;12;;3971;44
+Germany;Mar 20, 2020;12;;4032;86
+Germany;Mar 21, 2020;12;;3252;72
+Germany;Mar 22, 2020;12;323625;2289;61
+Germany;Mar 23, 2020;13;;3647;90
+Germany;Mar 24, 2020;13;;4765;116
+Germany;Mar 25, 2020;13;;5577;132
+Germany;Mar 26, 2020;13;;5792;172
+Germany;Mar 27, 2020;13;;6057;192
+Germany;Mar 28, 2020;13;;4743;179
+Germany;Mar 29, 2020;13;517575;3083;98
+Germany;Mar 30, 2020;14;;4134;166
+Germany;Mar 31, 2020;14;;5984;214
+Germany;Apr 1, 2020;14;;6209;216
+Germany;Apr 2, 2020;14;;6517;182
+Germany;Apr 3, 2020;14;;6233;145
+Germany;Apr 4, 2020;14;;4221;75
+Germany;Apr 5, 2020;14;583275;2505;64
+Italy;Mar 2, 2020;10;2218;561;6
+Italy;Mar 3, 2020;10;2511;347;17
+Italy;Mar 4, 2020;10;3981;466;28
+Italy;Mar 5, 2020;10;2525;587;27
+Italy;Mar 6, 2020;10;3997;769;41
+Italy;Mar 7, 2020;10;5703;778;49
+Italy;Mar 8, 2020;10;7875;1247;36
+Italy;Mar 9, 2020;11;3889;1492;133
+Italy;Mar 10, 2020;11;6935;1797;98
+Italy;Mar 11, 2020;11;12393;977;167
+Italy;Mar 12, 2020;11;12857;2313;196
+Italy;Mar 13, 2020;11;11477;2651;189
+Italy;Mar 14, 2020;11;11682;2547;252
+Italy;Mar 15, 2020;11;15729;3497;173
+Italy;Mar 16, 2020;12;13063;2823;370
+Italy;Mar 17, 2020;12;10695;4000;347
+Italy;Mar 18, 2020;12;16884;3526;347
+Italy;Mar 19, 2020;12;17236;4207;473
+Italy;Mar 20, 2020;12;24109;5322;429
+Italy;Mar 21, 2020;12;26336;5986;625
+Italy;Mar 22, 2020;12;25180;6557;795
+Italy;Mar 23, 2020;13;17066;5560;649
+Italy;Mar 24, 2020;13;21496;4789;601
+Italy;Mar 25, 2020;13;27481;5249;743
+Italy;Mar 26, 2020;13;36615;5210;685
+Italy;Mar 27, 2020;13;33019;6153;660
+Italy;Mar 28, 2020;13;35447;5959;971
+Italy;Mar 29, 2020;13;24504;5974;887
+Italy;Mar 30, 2020;14;23329;5217;758
+Italy;Mar 31, 2020;14;29609;4050;810
+Italy;Apr 1, 2020;14;34455;4053;839
+Italy;Apr 2, 2020;14;39809;4782;727
+Italy;Apr 3, 2020;14;38617;4668;760
+Italy;Apr 4, 2020;14;37375;4585;764
+Italy;Apr 5, 2020;14;34237;4805;681
+United States;Mar 2, 2020;10;4;20;1
+United States;Mar 3, 2020;10;31;14;4
+United States;Mar 4, 2020;10;850;22;3
+United States;Mar 5, 2020;10;258;34;2
+United States;Mar 6, 2020;10;710;74;1
+United States;Mar 7, 2020;10;377;105;2
+United States;Mar 8, 2020;10;637;95;3
+United States;Mar 9, 2020;11;1240;121;4
+United States;Mar 10, 2020;11;681;200;5
+United States;Mar 11, 2020;11;2549;271;2
+United States;Mar 12, 2020;11;2194;287;2
+United States;Mar 13, 2020;11;6217;351;10
+United States;Mar 14, 2020;11;3998;511;7
+United States;Mar 15, 2020;11;6302;777;10
+United States;Mar 16, 2020;12;14327;823;12
+United States;Mar 17, 2020;12;13685;887;16
+United States;Mar 18, 2020;12;21183;1766;23
+United States;Mar 19, 2020;12;25743;2988;42
+United States;Mar 20, 2020;12;35383;4835;0
+United States;Mar 21, 2020;12;44815;5374;110
+United States;Mar 22, 2020;12;46219;7123;80
+United States;Mar 23, 2020;13;55331;8459;131
+United States;Mar 24, 2020;13;66394;11236;119
+United States;Mar 25, 2020;13;83540;8789;211
+United States;Mar 26, 2020;13;96393;13963;249
+United States;Mar 27, 2020;13;110641;16797;246
+United States;Mar 28, 2020;13;107930;18695;411
+United States;Mar 29, 2020;13;93086;19979;484
+United States;Mar 30, 2020;14;118644;18360;318
+United States;Mar 31, 2020;14;106972;21595;661
+United States;Apr 1, 2020;14;103481;24998;909
+United States;Apr 2, 2020;14;121955;27103;1059
+United States;Apr 3, 2020;14;132011;28819;915
+United States;Apr 4, 2020;14;229268;32425;1104
+United States;Apr 5, 2020;14;122603;34272;1344
